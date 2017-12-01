@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+#menu-6 .navbar-toggler {
+  color: #000000;
+}
+#menu-6 .nav-link {
+  font-size: 18px;
+}
+#slider-e H2 {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+  text-align: left;
+}
+#slider-e B {
+  color: #ffffff;
+}
+#slider-e P {
+  color: #ffffff;
+  text-align: left;
+}
+#footer1-h P {
+  color: #37383e;
+}
+#testimonials1-k .card-footer > div {
+  color: #000000;
+}
+#testimonials1-k .mbr-section-title {
+  color: #37383e;
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-w .navbar-toggler {
+  color: #000000;
+}
+#menu-w .nav-link {
+  font-size: 18px;
+}
+#footer1-x P {
+  color: #37383e;
+}
+#slider-y H2 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#slider-y P {
+  color: #ffffff;
+}
+
+#menu-z .navbar-toggler {
+  color: #000000;
+}
+#menu-z .nav-link {
+  font-size: 18px;
+}
+#footer1-10 P {
+  color: #37383e;
+}
+#slider-11 H2 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#slider-11 P {
+  color: #ffffff;
+}
+
+
+#content5-1b .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #ffffff;
+  font-size: 46px;
+  text-align: center;
+}
+#content5-1b P {
+  text-align: center;
+  color: #ffffff;
+}
+#menu-15 .navbar-toggler {
+  color: #000000;
+}
+#menu-15 .nav-link {
+  font-size: 18px;
+}
+#footer1-16 P {
+  color: #37383e;
+}
+#form1-17 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 22px;
+  color: #37383e;
+  text-align: right;
+}
